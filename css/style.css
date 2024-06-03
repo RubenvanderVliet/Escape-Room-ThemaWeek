@@ -245,7 +245,7 @@
 
 /* level 3 */
 .bodylevel3{
-  background-image: url("../Image/Level3.png");
+  background-image: url("../image/Level3.png");
   background-repeat: no-repeat;
   background-size: cover;
   font-family: Arial, sans-serif;
@@ -298,7 +298,7 @@
   background-color: #45a049;
 }
 .lola{
-  background-image: url("../Image/lola.png");
+  background-image: url("../image/lola.png");
   width: 95%;
 }
 .h2-level3{
@@ -317,7 +317,7 @@
 }
 
 .body-level-4{
-    background-image: url("../Image/afbeelding2.png");
+    background-image: url("../image/afbeelding2.png");
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
