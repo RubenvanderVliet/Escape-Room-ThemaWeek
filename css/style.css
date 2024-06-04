@@ -142,7 +142,7 @@
 }
 
 .bg {
-    background-image: url(../image/begin-screen.png);
+    background-image: url(../img/begin-screen.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -159,7 +159,7 @@
 }
 
 .bg-end {
-    background-image: url(../image/End-screen.png);
+    background-image: url(../img/End-screen.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -176,7 +176,7 @@
 }
 
 .bg-game-over {
-    background-image: url(../image/game-over.png);
+    background-image: url(../img/game-over.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -193,7 +193,7 @@
 }
 
 .bg-level-1 {
-    background-image: url(../image/level-1.png);
+    background-image: url(../img/level-1.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -211,7 +211,7 @@
 }
 
 .bg-level-2 {
-    background-image: url(../image/Level\ 2.png);
+    background-image: url(../img/Level\ 2.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -245,7 +245,7 @@
 
 /* level 3 */
 .bodylevel3{
-  background-image: url("../image/Level3.png");
+  background-image: url("../img/Level3.png");
   background-repeat: no-repeat;
   background-size: cover;
   font-family: Arial, sans-serif;
@@ -298,7 +298,7 @@
   background-color: #45a049;
 }
 .lola{
-  background-image: url("../image/lola.png");
+  background-image: url("../img/lola.png");
   width: 95%;
 }
 .h2-level3{
@@ -317,7 +317,7 @@
 }
 
 .body-level-4{
-    background-image: url("../image/afbeelding2.png");
+    background-image: url("../img/afbeelding2.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     text-align: center;
